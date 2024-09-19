@@ -1,0 +1,10 @@
+dd,dd,dd,d,dd,dd
+abc,abc,23,12121,12,MBBS
+abc,abc,2,22,22,MBBs
+mm,mm,22,22,m2,MBBS
+ll,ll,2,22,2,MBBs
+mm,mm,2,1,1,MBBS
+dd,ee,22,3,22,MBBS
+dd,ee,12,12,1w,MBBS
+dd,ee,3,322,2w,MBBS
+de,fr,2,2,2de1,MBBS
